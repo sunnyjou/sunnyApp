@@ -1,0 +1,6 @@
+framework module Pods_sunnyApp {
+  umbrella header "Pods-sunnyApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

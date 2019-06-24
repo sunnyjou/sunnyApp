@@ -1,0 +1,6 @@
+framework module Pods_sunnyAppUITests {
+  umbrella header "Pods-sunnyAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
